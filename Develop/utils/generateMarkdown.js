@@ -50,7 +50,7 @@ function renderLicenseSection(data) {
     return `## License   ${badge}
   This project is covered under the ${data.license} License. For more information, visit ${link}.
      
-  ([Back to Top](#title))
+  ([Back to Top](#table-of-contents))
      `
   }
   else {
@@ -109,7 +109,7 @@ function generateMarkdown(data) {
   ([Back to Top](#table-of-contents))
      
   ## Questions
-  If you have any questions, feel free to contact me on GitHub at [${data.github}](github.com/${data.github}) or via email at ${data.email}
+  If you have any questions, feel free to contact me on GitHub at [${data.github}](https://www.github.com/${data.github}) or via email at ${data.email}
      
   ([Back to Top](#table-of-contents))
      
