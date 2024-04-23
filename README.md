@@ -30,7 +30,7 @@
   ([Back to Top](#table-of-contents))
      
   ## Questions
-  If you have any questions, feel free to contact me on GitHub at [BeeCeeTee](www.github.com/BeeCeeTee)
+  If you have any questions, feel free to contact me on GitHub at [BeeCeeTee](https://www.github.com/BeeCeeTee)
      
   ([Back to Top](#table-of-contents))
      
